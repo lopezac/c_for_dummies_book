@@ -1,3 +1,10 @@
+// THIS IS A RESTORE THAT I COULD RECOVER WITH GIT
+// ORIGINAL VERSION WAS DELETED AND I WAS NOT CAREFUL WITH
+// NOT DELETING ORIGINAL FILE, TOOK ME ALMOST 2 HOURS, BUT WITH THE rename
+// FUNCTION I DELETED IT, SO IM NOT GONNA DO IT AGAIN
+// IT WAS SUPPOSED TO CHANGE EVERY exercise_{number}.c to ex_{number}.c
+// IT WORKED BUT deleted every other file and I didnt git commit so it was lost
+// by some error
 #include <stdio.h>
 #include <string.h>
 
